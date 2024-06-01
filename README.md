@@ -14,7 +14,7 @@ This is a simple "Guess The Number" game built using Python and Tkinter.
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine.
 3. Navigate to the `GuessTheNumber` directory.
-4. Run the `main.py` file using Python.
+4. Run the `guessthenumber.py` file using Python.
 
 ## Technologies Used
 
