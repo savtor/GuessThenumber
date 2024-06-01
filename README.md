@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guess The Number Game
 
 This is a simple "Guess The Number" game built using Python and Tkinter.
@@ -19,3 +20,7 @@ This is a simple "Guess The Number" game built using Python and Tkinter.
 
 - Python
 - Tkinter
+=======
+# GuessThenumber
+A number Guessing game made using python
+>>>>>>> b055ac422150af20953a671b8d162e13d9259725
